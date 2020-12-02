@@ -1,0 +1,33 @@
+{
+  "appName": {
+    "message": "Deezer plus",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "DeezerPlus",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Deezer plus añade nueva funcionalidad al reproductor de música Deezer",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Deezer plus",
+    "description": "The title of the browser action button"
+  },
+  "searchInYoutube":  {
+    "message": "Busca la canción actual en Youtube",
+    "description": "Search in youtube message"
+  },
+  "ErrorContactDeveloper": {
+    "message": "Si el error continua, por favor <a href='https://github.com/haritzmedina/deezer-plus/issues/new?title=Bug+$errorMessage$&body=%23+How+to+reproduce%0AWrite+here+any+information+related+to+the+error+found%0A%23+Trace%0A%60$errorStacktrace$%60&labels=bug' target='_blank'>abre un ticket</a>.",
+    "placeholders": {
+      "errorMessage": {
+        "content": "$1"
+      },
+      "errorStacktrace": {
+        "content": "$2"
+      }
+    }
+  }
+}
