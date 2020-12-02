@@ -4,5 +4,5 @@ This a browser extension which tries to give extra functionality to Deezer websi
 
 It is in a very early stage of development, but if you want to contribute with new ideas to implement, bug fixes, changes, improvements, feel free to [open an issue](https://github.com/haritzmedina/deezer-plus/issues/new).
 
-## Current supported functionality
+## Current supported features
 * Search current song on Youtube
